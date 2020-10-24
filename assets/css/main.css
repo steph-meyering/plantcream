@@ -1,0 +1,39 @@
+* {
+  font-family: 'Barlow Semi Condensed';
+}
+
+body {
+  background-color: #FFF0EB;
+  /* background-image: url("../images/plantcreamstack.png"); */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#title-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#launching-soon{
+  font-size: 30px;
+  margin: 0px;
+  color: #e5446d;
+}
+
+#stacked-plantcream {
+  width: 800px;
+}
+
+.plant-cream-title {
+  font-family: 'Knewave';
+  font-size: 120px;
+  color: lightskyblue;
+  margin: 0px;
+}
+
+.mission {
+  font-size: 20px;
+  max-width: 750px;
+  color: #09bc8a;
+}
