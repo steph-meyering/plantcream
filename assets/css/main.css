@@ -24,6 +24,7 @@ body {
 
 #stacked-plantcream {
   display: block;
+  max-height: 47vh;
   }
 
 .plant-cream-title {
