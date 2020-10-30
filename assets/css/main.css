@@ -4,10 +4,9 @@
 
 body {
   background-color: #FFF0EB;
-  /* background-image: url("../images/plantcreamstack.png"); */
   background-size: cover;
   background-repeat: no-repeat;
-  max-height: 100vh;
+  max-height: 100vh;  
 }
 
 #title-container{
@@ -25,9 +24,7 @@ body {
 
 #stacked-plantcream {
   display: block;
-  max-height: 100vh;
-  max-width:100%;
-}
+  }
 
 .plant-cream-title {
   font-family: 'Knewave';
