@@ -7,12 +7,14 @@ body {
   /* background-image: url("../images/plantcreamstack.png"); */
   background-size: cover;
   background-repeat: no-repeat;
+  max-height: 100vh;
 }
 
 #title-container{
   display: flex;
   flex-direction: column;
   align-items: center;
+  max-height: 100vh;
 }
 
 #launching-soon{
@@ -22,7 +24,9 @@ body {
 }
 
 #stacked-plantcream {
-  width: 800px;
+  display: block;
+  max-height: 100vh;
+  max-width:100%;
 }
 
 .plant-cream-title {
